@@ -2,7 +2,7 @@ package build
 
 import (
 	"crypto/sha1"
-	"path/filepath
+	"path/filepath"
 	"sort"
 )
 
